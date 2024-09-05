@@ -43,6 +43,7 @@ section img.background {
   transform: translate(-50%, 0);
   width: 100vmax;
   z-index: -1;
+  color:white;
 }
 
 h1 {

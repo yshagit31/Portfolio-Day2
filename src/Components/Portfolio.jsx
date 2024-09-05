@@ -19,8 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
-
+import image from "../images/wooden-box-3714128_1280.jpg";
 const imageAltText = "desktop with books and laptop";
 
 /**
@@ -31,28 +30,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Compra Price Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Developed a price comparison website using React and Node.js that integrates Amazon and Flipkart APIs to find the best deals, improving performance and user experience.",
+    url: "https://github.com/yshagit31/MiniProject",
   },
   {
-    title: "Web Development for Beginners",
+    title: " Supplier Search API",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed a RESTful API for a Makersharks search page, improving search speed by 40% and accuracy by 35% with enhanced performance and exception handling.",
+    url: "https://github.com/yshagit31/searchapi",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Developed a portfolio website that enhanced professional presentation, improved mobile compatibility, and boosted site performance. Integrated interactive elements to increase user engagement and ensure smooth navigation.",
+    url: "https://yshagit31.github.io/Portfolio/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Object Detection System",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Developed an object detection system in Embedded C++ that improved detection accuracy, provided real-time distance measurement up to 5 meters, and reduced latency, leading to enhanced system responsiveness and efficiency.",
+    url: "https://github.com/yshagit31/Object_Distance",
   },
 ];
 
